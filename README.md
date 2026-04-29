@@ -94,6 +94,8 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="./langgraph.svg" height="40" alt="langgraph logo"  />
+  <img src="./lang-chain-logo_svgstack_com_202604293927.svg" height="40" alt="langchain logo"  />
 </div>
 
 ###
