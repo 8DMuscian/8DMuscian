@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Full Stack Projects and Real-World Backend Systems<br><br>🌱 I’m currently learning AI, RAG Systems, and Advanced Backend Development<br><br>🤝 I’m looking for help with DevOps and Scalable System Design<br><br>💬 Ask me about Full Stack Web Development, MERN Stack, IoT Projects, and Backend Development<br><br>📫 How to reach me: [kharadeprathamesh7@gmail.com](mailto:kharadeprathamesh7@gmail.com)<br><br>⚡ Fun fact I love building projects that solve real-world problems 🚀</p>
+<p align="left">🔭 I’m currently working on Full Stack Projects and Real-World Backend Systems<br><br>🌱 I’m currently learning AI, RAG Systems, and Advanced Backend Development<br><br>🤝 I’m looking for help with DevOps and Scalable System Design<br><br>💬 Ask me about Full Stack Web Development, MERN Stack, IoT Projects, and Backend Development<br><br>📫 How to reach me: <a href="kharadeprathamesh7@gmail.com">kharadeprathamesh7@gmail.com</a><br><br>⚡ Fun fact I love building projects that solve real-world problems 🚀</p>
 
 ###
 
