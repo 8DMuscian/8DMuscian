@@ -6,8 +6,6 @@
 
 <h1 align="center">Hey 👋 Prathamesh Here!</h1>
 
-
-
 <h2 align="center">About me</h2>
 
 ###
