@@ -107,7 +107,9 @@
 ###
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F8DMuscian&label=Profile%20Views&labelColor=%23000000&countColor=%23c62216)
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F8DMuscian&label=Profile%20Views&labelColor=%23000000&countColor=%23c62216" />
+</div>
 
 
 ###
