@@ -12,11 +12,16 @@
 
 
 
-- 🔭 I’m currently working on Full Stack Projects and Real-World Backend Systems
-- 🌱 I’m currently learning AI, RAG Systems, and Advanced Backend Developmen
-- 🤝 I’m looking for help with DevOps and Scalable System Design
-- 💬 Ask me about Full Stack Web Development, MERN Stack, IoT Projects, and Backend Development
+- 🔭 I’m currently working on **Full Stack Projects and Real-World Backend Systems**
+  
+- 🌱 I’m currently learning **AI, RAG Systems, and Advanced Backend Development**
+  
+- 🤝 I’m looking for help with **DevOps** and **Scalable System Design**
+  
+- 💬 Ask me about **Full Stack Web Development, MERN Stack, IoT Projects, and Backend Development**
+  
 - 📫 How to reach me: **kharadeprathamesh7@gmail.com**
+  
 - ⚡ Fun fact I love building projects that solve real-world problems 🚀
 
 ###
